@@ -1,4 +1,4 @@
-# solution to Banker's plan
+# solution to Banker's plan - test what happens
 # https://www.codewars.com/kata/56445c4755d0e45b8c00010a
 
 def fortune(f0, p, c0, n, i):
